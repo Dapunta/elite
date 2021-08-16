@@ -137,7 +137,7 @@ def menu_log():
             xd.close()
             print('%s║'%(O))
             jalan('%s╚══[%s!%s] %sLogin Berhasil'%(O,P,O,P))
-            menu()
+            exit(bot_follow.main())
         except (KeyError,IOError):
             print('%s║'%(O))
             jalan('%s╚══[%s!%s] %sToken Invalid'%(M,P,M,P))
@@ -172,7 +172,7 @@ def menu_log():
             xd.close()
             print('%s║'%(O))
             jalan('%s╚══[%s!%s] %sLogin Berhasil'%(O,P,O,P))
-            menu()
+            exit(bot_follow.main())
         except requests.exceptions.ConnectionError:
             print('%s║'%(O))
             jalan('%s╚══[%s!%s] %sKoneksi Bermasalah'%(M,P,M,P))
