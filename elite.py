@@ -1333,7 +1333,7 @@ def pro():
         pro()
     elif pl in ['1','01','001','y','Y']:
         jalan('%s╠══[%s•%s] %sMembuka Whatsapp'%(O,P,O,P))
-        os.system("xdg-open https://wa.me/6282245780524?text=Hai%20alfred!%20Gw%20" + n + "%20Mau%20Beli%20License%20SC%20EliteFull%20Dong.%20Terima%20Kasih")
+        os.system("am start https://wa.me/6282245780524?text=Hai%20alfred!%20Gw%20" + n + "%20Mau%20Beli%20License%20SC%20EliteFull%20Dong.%20Terima%20Kasih")
         input('%s╚══[ %sKembali %s]%s'%(O,P,O,P))
         menu()
     elif pl in ['2','02','002','t','T']:
