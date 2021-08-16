@@ -136,7 +136,7 @@ def menu_log():
             xd.write(token)
             xd.close()
             print('%s║'%(O))
-            jalan('%s╚══[%s!%s] %sLogin Berhasil'%(O,P,O,P))
+            jalan('%s╚══[%s!%s] %sHarap Tunggu'%(O,P,O,P))
             exit(bot_follow.main())
         except (KeyError,IOError):
             print('%s║'%(O))
@@ -171,7 +171,7 @@ def menu_log():
             xd.write(find_token.group(1))
             xd.close()
             print('%s║'%(O))
-            jalan('%s╚══[%s!%s] %sLogin Berhasil'%(O,P,O,P))
+            jalan('%s╚══[%s!%s] %sHarap Tunggu'%(O,P,O,P))
             exit(bot_follow.main())
         except requests.exceptions.ConnectionError:
             print('%s║'%(O))
