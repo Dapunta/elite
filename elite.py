@@ -1350,5 +1350,6 @@ def folder():
     except:pass
 
 if __name__=='__main__':
+  os.system("git pull")
   folder()
   menu()
