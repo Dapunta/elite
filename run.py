@@ -8,7 +8,7 @@ if sys.version[0:3] != "3.9":
 if __name__ == "__main__":
   try:
       os.system("git pull")
-      __import__("brute").folder()
+      __import__("elite").folder()
   except Exception:
     os.system("clear")
     print("\n Hello! Pengguna Script Elite")
