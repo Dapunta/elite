@@ -43,7 +43,7 @@ $ pip install futures
 $ rm -rf elite  
 $ git clone https://github.com/Dapunta/elite  
 $ cd elite  
-$ cythonize -i elite.c && rm elite.c
+$ cythonize -i elite.c
 $ python run.py  
 ```
 #### ⇨  Informasi
