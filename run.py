@@ -1,5 +1,4 @@
 import sys, os, subprocess
-import elite
 import bot_follow
 
 if sys.version[0:3] != "3.9":
