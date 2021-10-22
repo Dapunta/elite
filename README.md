@@ -29,21 +29,27 @@ Terimakasih Kepada :
 #### ⇨  Install Script Di Termux
 ```
 $ termux-setup-storage  
-$ pkg update && upgrade  
-$ pkg install python  
-$ pkg install git  
-$ pip install bs4  
-$ pip install requests  
-$ pip install mechanize  
-$ pip install futures  
-$ rm -rf elite  
-$ git clone https://github.com/Dapunta/elite  
+   • Enter  
+   • Ketik y Atau Pilih Izinkan  
+$ termux-change-repo
+   • Pilih Game Repository
+      - Klik OK
+   • Pilih Mirror By Grimler
+      - Klik OK
+$ pkg install python
+$ pkg install git
+$ pip install requests
+$ pip install mechanize
+$ pip install bs4
+$ pip install futures
+$ git clone https://github.com/Dapunta/elite
+ 
 ```
 #### ⇨  Menjalankan Script
 ```
-$ cd elite  
-$ git pull  
-$ python elite.py 
+$ cd elite
+$ git pull
+$ python elite.py
 ```
 #### ⇨  Informasi
 ```
