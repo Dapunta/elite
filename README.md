@@ -1,5 +1,5 @@
 # ✭ ELITE CRACK
-#### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
+### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
 ```
 Author:
 - Dapunta Khurayra X
@@ -13,20 +13,20 @@ Terimakasih Kepada :
 - Aap Afandi      - Fallen
 - Rizky Leviathan - Hanifan
 ```
-#### ⇨  Fitur Login
+### ⇨  Fitur Login
 ```
 [✯] Login Cookies  
 [✯] Login Token  
 [✯] Cookies/Token Awet  
 ```
-#### ⇨  Fitur Crack
+### ⇨  Fitur Crack
 ```
 [✯] Crack Dari Teman, Public, Followers, Likers    
 [✯] Crack Default/Manual Pass  
 [✯] Crack Metode Api, Mbasic, Free FB  
 [✯] Crack With TTL/DOB  
 ```
-#### ⇨  Install Script Di Termux
+### ⇨  Install Script Di Termux
 ```
 $ termux-setup-storage  
    • Enter  
@@ -45,16 +45,18 @@ $ pip install futures
 $ git clone https://github.com/Dapunta/elite
  
 ```
-#### ⇨  Menjalankan Script
+### ⇨  Menjalankan Script
 ```
 $ cd elite
 $ git pull
 $ python elite.py
 ```
-#### ⇨  Informasi
+### ⇨  Informasi
 ```
 [!] Bedanya Metode Crack Apaan Ngab? Nih :
 ✯ ---> API = Pake Metode Lama, Cracknya Cepet Tapi Gampang Kena Spam, Sebab Udah Diupdate Sama Pihak Facebook, Not Recommended
 ✯ ---> Mbasic = Metode Lama Yang Masih Valid Sampe Sekarang, Cracknya Lumayan Lambat, Tapi Jarang Kena Spam, Makanya Recommended
 ✯ ---> Free = Seperti Mbasic, Bedanya Ganti Tempat Login Aja, Cracknya Paling Lambat, Gak Kena Spam, Kemungkinan Dapet OK
 ```
+### ⇨  Screenshot
+![Elite SC](https://user-images.githubusercontent.com/76211798/144189821-d3a6a022-8277-4215-af79-4e77b4c99161.jpg)
